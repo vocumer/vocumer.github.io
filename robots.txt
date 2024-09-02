@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vocumer.github.io/sitemap.html.gz
+Sitemap: https://vocumer.github.io/app/sitemap.html.gz
+Sitemap: https://vocumer.github.io/assets/sitemap.html.gz
+Sitemap: https://vocumer.github.io/css/sitemap.html.gz
+Sitemap: https://vocumer.github.io/includes/sitemap.html.gz
+Sitemap: https://vocumer.github.io/item/sitemap.html.gz
+Sitemap: https://vocumer.github.io/src/sitemap.html.gz
